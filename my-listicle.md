@@ -12,4 +12,4 @@
 Here is a link to [RIT] (https://www.rit.edu/)
 
 Here is an image:
-![Cool image](https://ru.pinterest.com/pin/87679523989217127/)
+![Cool image](https://pin.it/3WCaFJq6T)
