@@ -12,4 +12,4 @@
 Here is a link to [RIT] (https://www.rit.edu/)
 
 Here is an image:
-![Cool image](https://pm1.aminoapps.com/7342/6e4d16856d49aded338b1a4605dd52c450ccae75r1-720-642v2_00.jpg)
+![Cool image] (https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A3%D0%BC%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D0%B2_%D0%BE%D1%87%D0%BA%D0%B0%D1%85_%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%BE%D0%B1%D0%BE%D0%B8.jpeg) 
